@@ -2,11 +2,10 @@ namespace Classes
 {
     class Omni: Account
     {
-        private decimal interest;
-        private bool overdraft;
-        private decimal fees;
-
-        public Omni(double balance): base(balance){}
+        private double interest = 0.04;
+        private bool overdraft = true;
+        private double fees = 10.25;
+        public Omni(double balance, string owner): base(balance, owner){}
 
     }
 

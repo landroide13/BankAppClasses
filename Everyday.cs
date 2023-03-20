@@ -2,11 +2,10 @@ namespace Classes
 {
     class Everyday: Account
     {
-        private decimal interest;
-        private bool overdraft;
-        private decimal fees;
-
-        public Everyday(double balance): base(balance){}
+        private decimal interest = 0;
+        private bool overdraft = false;
+        private decimal fees = 0;
+        public Everyday(double balance, string owner): base(balance, owner){}
 
     }
 

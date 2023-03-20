@@ -5,11 +5,10 @@ namespace Classes
         static int num = 1;
         private int id;
         private string owner;
-
         public string Owner
         {
             get { return owner; }   
-            set { Owner = value; }
+            set { owner = value; }
         }
         public int Id
        {
@@ -22,11 +21,12 @@ namespace Classes
             set { balance = value; }
        }
 
-        public Account(double balance)
+        public Account(double balance, string owner)
         {
             num++;
             this.id = num;
             this.balance = balance;
+            this.owner = owner;
         }
 
 

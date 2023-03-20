@@ -24,7 +24,6 @@ namespace Classes
        public int[] Accounts
        {
             get { return accounts; }   
-            set { accounts = value; }
        }
        public User(string contact, string name)
        {

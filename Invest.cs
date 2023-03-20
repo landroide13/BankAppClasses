@@ -2,11 +2,10 @@ namespace Classes
 {
     class Invest: Account
     {
-        private decimal interest;
-        private bool overdraft;
-        private decimal fees;
-
-        public Invest(double balance): base(balance){}
+        private double interest = 0.25;
+        private bool overdraft = false;
+        private double fees = 10.34;
+        public Invest(double balance, string owner): base(balance, owner){}
 
     }
 
