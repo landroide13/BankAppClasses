@@ -1,0 +1,15 @@
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/bin/Debug/net7.0/Classes
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/bin/Debug/net7.0/Classes.dll
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/obj/Debug/net7.0/Classes.dll
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/landroide/Desktop/WhiteCliffe/AdvanceProgramming/C#Review/Classes/obj/Debug/net7.0/ref/Classes.dll
