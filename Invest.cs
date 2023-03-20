@@ -1,6 +1,6 @@
 namespace Classes
 {
-    class Invest: Account
+    class Invest: Account, IAccount
     {
         private double interest = 0.25;
         private bool overdraft = false;

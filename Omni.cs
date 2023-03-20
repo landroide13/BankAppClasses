@@ -1,6 +1,6 @@
 namespace Classes
 {
-    class Omni: Account
+    class Omni: Account, IAccount
     {
         private double interest = 0.04;
         private bool overdraft = true;

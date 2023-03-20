@@ -29,7 +29,6 @@ namespace Classes
             this.owner = owner;
         }
 
-
     }
 
 }    
