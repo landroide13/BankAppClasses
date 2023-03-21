@@ -14,7 +14,7 @@
 
             Console.WriteLine("Customer name  " + s1.Name);
             Console.WriteLine("Account Id  " + e1.Id);
-            Console.WriteLine("Account Owner:  " + e1.Owner);
+            Console.WriteLine("Account Info:  " + e1.ToString());
             Console.WriteLine("Account balance: $" + e1.Balance);
         }
     }

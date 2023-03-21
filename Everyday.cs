@@ -28,6 +28,11 @@ namespace Classes
 
         public void applyInterest(double Balance, double interest){}
 
+        public override string ToString()
+        {
+            return $"Account Everyday id: {Id}, Balance: ${Balance}, Applied Fees: {Fees}";
+        }
+
     }
 
 }    
