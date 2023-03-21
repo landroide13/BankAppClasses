@@ -30,7 +30,7 @@ namespace Classes
 
         public override string ToString()
         {
-            return $"Account Everyday id: {Id}, Balance: ${Balance}, Applied Fees: {Fees}";
+            return $"Account Everyday id: {Id}, Balance: ${Balance}, Applied Fees: {Fees}, Owner Name: {Owner}";
         }
 
     }
