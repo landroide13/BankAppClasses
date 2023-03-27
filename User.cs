@@ -1,6 +1,6 @@
 namespace Classes
 {
-    class User
+    abstract class User
     {
        static int num = 1;
        private int id;
@@ -32,7 +32,6 @@ namespace Classes
             this.contactNum = contact;
             this.name = name;
        }
-
 
     }
 

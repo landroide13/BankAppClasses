@@ -7,6 +7,11 @@ namespace Classes
         private double fees = 10.25;
         public Omni(double balance, string owner): base(balance, owner){}
 
+         public override string ToString()
+        {
+            return $"Account Omni id: {Id}, Balance: ${Balance}, Applied Fees: {fees}, Owner Name: {Owner}";
+        }
+
     }
 
 }   
