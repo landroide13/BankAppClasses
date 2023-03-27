@@ -2,6 +2,7 @@ namespace Classes
 {
     class Invest: Account, IAccount
     {
+        private string type = "Investment";
         private double interest = 0.25;
         private bool overdraft = false;
         private double fees = 10.34;
@@ -9,7 +10,7 @@ namespace Classes
 
          public override string ToString()
         {
-            return $"Account Investment id: {Id}, Balance: ${Balance}, Applied Fees: {fees}, Owner Name: {Owner}";
+            return $"Account {type} id: {Id}, Balance: ${Balance}, Applied Fees: {fees}, Owner Name: {Owner}";
         }
 
     }

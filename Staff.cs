@@ -3,10 +3,10 @@ namespace Classes
 
     class Staff: User
     {
-        double fees = 0.5;
-        public double Fees
+        double feesDesc = 0.05;
+        public double Desc
         {
-            get { return fees; } 
+            get { return feesDesc; } 
         }
 
         public Staff(string contact, string name): base(contact, name){}

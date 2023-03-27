@@ -2,6 +2,7 @@ namespace Classes
 {
     class Everyday: Account, IAccount
     {
+        private string type = "Everyday";
         private double interest = 0;
         public double Interest
         {
@@ -30,7 +31,7 @@ namespace Classes
 
         public override string ToString()
         {
-            return $"Account Everyday id: {Id}, Balance: ${Balance}, Applied Fees: {Fees}, Owner Name: {Owner}";
+            return $"Account {type} id: {Id}, Balance: ${Balance}, Applied Fees: {Fees}, Owner Name: {Owner}";
         }
 
     }
